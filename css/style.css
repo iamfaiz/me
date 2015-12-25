@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Vidaloka);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+body {
+  font-family: Source Sans Pro, 'Helvetica Neue', Helvetica;
+}
+h1, h2 {
+  font-family :Vidaloka, 'Helvetica Neue', Helvetica;
+}
+section {
+  padding: 60px 0;
+}
+.alt-bg {
+  background: #E2E1F6;
+}
+/* About */
+
+.about-text {
+  font-size: 1.1em;
+  margin-top: 25px;
+  word-spacing: .1em;
+}
+
+/* Projects */
+.portfolio-cards-container {
+  margin-top: 50px;
+}
+.portfolio-card {
+  margin: 5px auto;
+  text-align: center;
+  background: #eee;
+  padding-bottom: 20px;
+}
+
+/* Contact */
+.contact-form-container {
+  margin-top: 50px;
+}
+
+/* Experience */
+.experience-text {
+  font-size: 1.1em;
+  margin-top: 25px;
+  word-spacing: .1em;
+  margin-top: 50px;
+}
+
+/* Skills */
+.all-skills {
+  margin-top: 50px;
+}
